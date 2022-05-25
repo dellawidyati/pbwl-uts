@@ -1,0 +1,16 @@
+{
+    "name": "asus/uts_pbwl_della-widyati",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan",
+    "autoload": {
+        "psr-4": {
+            "Asus\\UtsPbwlDellaWidyati\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Della",
+            "email": "dellawidyati26@gmail.com"
+        }
+    ],
+    "require": {}
+}
